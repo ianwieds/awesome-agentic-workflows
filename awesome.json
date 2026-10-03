@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agentic Workflows",
+  "repo": "ianwieds/awesome-agentic-workflows",
+  "tagline": "A curated list of AI agents that run inside GitHub: GitHub Agentic Workflows (gh-aw), agent GitHub Actions and issue-to-PR pipelines.",
+  "scope": "It is about Agentic Workflows: an agent or tool that runs inside GitHub, or a guide or talk about one.",
+  "accent": "10B981",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: issue cards ride a conveyor through review, build and check stations and leave as merged pull requests."
 }
