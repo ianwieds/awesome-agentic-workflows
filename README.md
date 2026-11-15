@@ -396,10 +396,10 @@ GitHub Agentic Workflows describe repository automation in Markdown and run a co
 - [Jira Ticket to GitHub Pull Request](https://www.youtube.com/watch?v=kaIz0X_YByE) - Mickey Gousset wires custom Copilot agents and workflows from ticket to PR.
 - [Rubber Duck Thursdays: GitHub Agentic Workflows](https://www.youtube.com/watch?v=Dw2S-VQDvhs) - GitHub live stream that builds and discusses agentic workflows.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
