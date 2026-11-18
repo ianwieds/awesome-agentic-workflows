@@ -278,6 +278,7 @@ GitHub Agentic Workflows describe repository automation in Markdown and run a co
 - [Copilot Coding Agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent) - GitHub agent that takes an assigned issue, works in Actions and opens a PR.
 - [Jules](https://jules.google) - Google asynchronous coding agent that works on GitHub repos and opens PRs.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - Open source software agent with a GitHub resolver for labeled issues.
+- [Orbi](https://github.com/orbi-build/orbi) - Self-hosted runner that takes labeled issues to reviewed PRs, merges them and cuts tagged releases.
 - [Patchwork](https://github.com/patched-codes/patchwork) - Patchflows that fix, review and document code and then open pull requests.
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) - Research agent that takes a GitHub issue and tries to fix it with any model.
 
